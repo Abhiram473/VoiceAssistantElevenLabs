@@ -24,7 +24,9 @@ Get Agent ID: From your created conversational AI agent page
 Create .env file in the project root:
 
 env
+
 API_KEY=your_api_key_here
+
 AGENT_ID=your_agent_id_here
 
 ▶️ Run the App
